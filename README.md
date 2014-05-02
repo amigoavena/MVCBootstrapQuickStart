@@ -1,2 +1,4 @@
 SpringMVCBootstrapQuickStart
 ============================
+
+gradle tomcatrun
